@@ -1,0 +1,55 @@
+h1 {
+  color: #3f87fc;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+#bar-display {
+  text-align: center;
+}
+
+p {
+  font-family: 'Mukta', sans-serif; 
+  font-size: 25px;
+}
+
+.info-img {
+  width: 500px;
+}
+
+.video {
+  margin: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.marker {
+  width: 50px;
+  cursor: pointer;
+}
+
+#map {
+  margin-left: 25px;
+  display: block;
+  border: #3f87fc 1px solid;
+  height: 566px;
+}
+
+#map-row {
+  display: flex;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+#info-container {
+  padding: 10px;
+  border: #3f87fc 1px solid;
+  width: 300px;
+}
+
+body{
+  background-color:#cdd2d6;
+}
